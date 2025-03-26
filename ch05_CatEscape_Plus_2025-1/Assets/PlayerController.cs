@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// 이시현 추가
 // 오브젝트를 움직일 수 있는 컨트롤러 스크립트 : 키를 조작해서 플레이어 움직이기
 //   추가 --> 단, 플레이어가 게임창을 벗어나지 않도록 Vector 최솟값, 최댓값 설정하기
 public class PlayerController : MonoBehaviour
